@@ -1,6 +1,8 @@
 # 42 Piscine
 This repository contains my codes for the 42 Kocaeli Piscine I attended in September 2023. You can see the scores I received for each project in the table below. Feel free to contact me with any questions.
 
+<br>
+
 # Table of Scores
 | Projects | Score        |
 |----------|--------------|
@@ -28,3 +30,15 @@ This repository contains my codes for the 42 Kocaeli Piscine I attended in Septe
 | Rush01   | not attended |
 | Rush02   | not attended |
 | BSQ      | not attended |
+
+<br>
+
+# Behold
+<img src="/Moment.png" width="600" />
+
+## Contact
+
+You can reach me at:
+
+- **Email:** [rustemavci@hotmail.com.tr](mailto:rustemavci@hotmail.com.tr)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rüstem-avcı)
